@@ -25,9 +25,7 @@ You might know me from my books, articles, and my explorations into how we think
   _My primary hub for ideas, essays, and collected insights._
 - **Publications:** [link.danielwieser.com](https://link.danielwieser.com/)  
   _A curated library of my research and publications._
-- **Goodreads:** [Daniel Wieser on Goodreads](https://www.goodreads.com/author/show/7503336.Daniel_Wieser)
-- **Amazon:** [My Author Page](https://www.amazon.com/stores/author/B0C94K83J8)
-- **Medium:** [danielwieser.medium.com](https://danielwieser.medium.com/books)
+- | [Goodreads](https://www.goodreads.com/author/show/7503336.Daniel_Wieser) | [Amazon](https://www.amazon.com/stores/Daniel-Wieser/author/B00I46JMLA) | [Medium](https://danielwieser.medium.com/books)
 
 ---
 
