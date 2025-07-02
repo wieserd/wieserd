@@ -10,7 +10,7 @@ You might know me from my books, articles, and my explorations into how we think
 
 - **Name:** Daniel Wieser  
 - **Location:** Vienna, Austria  
-- **Author, Researcher, Connector of Ideas**  
+- **Author, Researcher**
 - **Born:** December 12, 1988
 
 ### 📚 What I Do
