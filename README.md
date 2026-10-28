@@ -31,15 +31,14 @@ You might know me from my books, articles, and my explorations into how we think
 
 ## ✍️ Recent Projects
 
+- **[Local Font Studio](https://github.com/wieserd/local-font-studio):**  
+  A project dedicated to font creation.
+  
 - **[CLI Search for arXiv](https://github.com/wieserd/cli-search-for-arXiv):**  
   A python command line program that uses arXiv API to search for papers on arXiv.
 
 - **[Creative Writer CLI Project Manager](https://github.com/wieserd/creative_writer_cli_project_manager):**  
   A minimalistic command-line interface (CLI) tool designed to help writers organize their creative projects, capture ideas, and track progress.  
-
-- **[genius](https://github.com/wieserd/genius):**  
-  A project dedicated to exploring and building tools around genius-level thinking and knowledge management.
-
 
 ---
 
